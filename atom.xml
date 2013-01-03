@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Taipei Hackerspace]]></title>
+  <link href="http://taipeihackerspace.github.com/atom.xml" rel="self"/>
+  <link href="http://taipeihackerspace.github.com/"/>
+  <updated>2013-01-03T10:55:42+08:00</updated>
+  <id>http://taipeihackerspace.github.com/</id>
+  <author>
+    <name><![CDATA[Gergely Imreh]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Kicking off the new year]]></title>
+    <link href="http://taipeihackerspace.github.com/blog/2013/01/03/kicking-off-the-new-year/"/>
+    <updated>2013-01-03T10:29:00+08:00</updated>
+    <id>http://taipeihackerspace.github.com/blog/2013/01/03/kicking-off-the-new-year</id>
+    <content type="html"><![CDATA[<p>The Taipei Hackerspace project was in the back of my mind for years now, not really going anywhere, but I kept talking about it with people. From their reactions, and from things I heard discussed by others, there&#8217;s indeed a need and space for it, if it gets off the ground. Let&#8217;s make 2013 the year when that will happen.</p>
+
+<p>In the last few monthts I have already got a log of interesting contact from people around the world - travellers coming to Taiwan, people moving here, and looking for a place to create. I can&#8217;t think of a better time doing that than now, and Taiwan has its unique properties that would make it a very hacker-friendly country.</p>
+
+<p><img src="http://taipeihackerspace.github.com/blogimg/hackerspace500.png" width="500" height="500" title="&#34;Preliminary Taipei Hackerspace Logo&#34;" alt="&#34;Preliminary Taipei Hackerspace Logo&#34;"></p>
+
+<p>In the meantime, I just set up this blog to put a bit more pressure on me to get things going. Got together a silly logo already (with <a href="http://taipeihackerspace.github.com/blogimg/hackerspace1opaque.svg" title="Link to SVG version">SVG source</a>).</p>
+
+<p>Also, there are some related projects that I created or took part, like <a href="http://openhack.github.com/taipei" title="OpenHack Taipei page">OpenHack Taipei</a> (the next event is coming up on 2013 Jan 12, Saturday evening!), or <a href="https://www.facebook.com/groups/geekdinnertpe/" title="Facebook group">Geek Dinner</a>.</p>
+
+<p>So far things were managed on the <a href="https://www.facebook.com/TaipeiHackerspace" title="Facebook page">Facebook</a> and <a href="https://plus.google.com/b/100085911445404984901/100085911445404984901/" title="Google+ page">Google+</a> pages, I guess I will try to move things over here to the blog more, writing articles, calls for action, so forth. Those pages will remain, since most people are more exposed to FB and G+, and there are some great communities there too.</p>
+
+<p>If you have any comments, just leave a note here.</p>
+
+<p>Cheers,
+<a href="http://gergely.imreh.net">Greg</a></p>
+]]></content>
+  </entry>
+  
+</feed>
