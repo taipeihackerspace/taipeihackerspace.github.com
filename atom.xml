@@ -4,7 +4,7 @@
   <title><![CDATA[Taipei Hackerspace]]></title>
   <link href="http://taipeihackerspace.github.com/atom.xml" rel="self"/>
   <link href="http://taipeihackerspace.github.com/"/>
-  <updated>2013-01-03T10:55:42+08:00</updated>
+  <updated>2013-01-04T23:50:38+08:00</updated>
   <id>http://taipeihackerspace.github.com/</id>
   <author>
     <name><![CDATA[Gergely Imreh]]></name>
@@ -12,6 +12,63 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Radiation counters]]></title>
+    <link href="http://taipeihackerspace.github.com/blog/2013/01/04/radiation-counters/"/>
+    <updated>2013-01-04T22:51:00+08:00</updated>
+    <id>http://taipeihackerspace.github.com/blog/2013/01/04/radiation-counters</id>
+    <content type="html"><![CDATA[<p>Recently I was thinking what kind of projects would fit the local environment the best, what technology and science related topics can be on people&#8217;s mind in Taiwan. One that keeps popping up is the issue of nuclear power and its dangers.</p>
+
+<p>I&#8217;m a physicist, and the professors at my <a href="http://www.unideb.hu/" title="University of Debrecen, Hungary">university</a> had a relatively close contact with <a href="http://paksnuclearpowerplant.com/" title="Paks Nuclear Power Plant">Hungary&#8217;s single nuclear power plant</a>, and we had a good training about nuclear energy and engineering. Because of this it annoyed me to no end to see the &#8220;No nukes&#8221; slogens everywhere in Taiwan for a long time, mostly because I felt people misunderstood things - let&#8217;s start with that &#8220;nukes&#8221; are &#8220;nuclear weapons&#8221;, not nuclear power&#8230; The more I encountered the protests, and the more I thought about it, there&#8217;s a point, though. The biggest practical reason for people to oppose that technology is because its implementation here is bad: bad choice of location, bad management, bad practices. I don&#8217;t know whether it is really so, but those are at least sound things to discuss.</p>
+
+<p>After the <a href="http://en.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster" title="Fukushima on Wikipedia">Fukushima disaster</a>, I was in touch with a bit with the <a href="http://tokyohackerspace.org/">Tokyo Hackerspace</a> and <a href="http://freaklabs.org/">Freaklabs</a> acting on their behalves. We sent some supplies there, and followed their project of making a lot of portable <a href="http://en.wikipedia.org/wiki/Geiger_counter" title="Geiger counter on Wikipedia">Geiger radiation counters</a>. It was very impressive, and I do belive as well, that everything that makes people be better informed is a good ideas. It was covered in the <a href="http://blog.makezine.com/2011/08/09/tokyo-hackerspaces-geiger-counter-project-continues-to-evolve/">Make: blog</a>.</p>
+
+<p>While searching for more about that project, I found <a href="http://blog.safecast.org/">Safecast</a>, &#8220;a global sensor network for collecting and sharing radiation measurements to empower people with data about their environments.&#8221; Really think that Taiwan could use something similar.</p>
+
+<p>So, how difficult it is to build a Geiger counter? Haven&#8217;t done one yet myself, from the tutorials on the net it looks relatively straightforward once one has the actual detector unit, while there is still space for innovation if someone wants to make more efficient, cheaper, or scrappy units.</p>
+
+<h3>bGeigie nano</h3>
+
+<p><a href="https://plus.google.com/107771797789108794103/posts/ZZaxz8exNQq">bGeigie nano</a>, really cool looking one on Google+, that kickstarted my recent thinking. Not much linked there, should find out more about this.</p>
+
+<p><img src="http://taipeihackerspace.github.com/blogimg/bGeigi500o.jpg" width="500" height="375" title="&#34;bGeigie nano by Pieter Franken&#34;" alt="&#34;bGeigie nano by Pieter Franken&#34;"></p>
+
+<h3>DIYGeigerCounter</h3>
+
+<p><a href="https://sites.google.com/site/diygeigercounter/">DIYGeigerCounter</a> is an entire kit with information, layout, parts and all</p>
+
+<p><img src="http://taipeihackerspace.github.com/blogimg/diygeigercounter500o.jpg" width="500" height="301" title="&#34;the DIY kit&#34;" alt="&#34;the DIY kit&#34;"></p>
+
+<h3>Make Blog coverage of DIY Geiger Counters</h3>
+
+<p>There&#8217;s a big collection of <a href="http://blog.makezine.com/2011/04/14/diy-geiger-counters-take-center-stage/">DIY counters</a> in another post on Make:. The whole spectrum is represented from prototipy to professional,</p>
+
+<p><img src="http://taipeihackerspace.github.com/blogimg/strawberrylinux500o.jpg" width="500" height="375" title="&#34;Strawberry Linux counter&#34;" alt="&#34;Strawberry Linux counter&#34;"></p>
+
+<h3>Instructables</h3>
+
+<p>The <a href="http://www.adafruit.com/blog/2011/05/19/netduino-tweeting-geiger-counter-adafruit-instructables-make-it-tweet-challenge/">Tweeting Geiger Counter</a> was an entry to Adafruit+Instructables Make It Tweet Challenge. Those are two companies that should be very familiar to every maker anyways, I take a lot of inspiration from them.</p>
+
+<p>Instructables have a few more related projects. <a href="http://www.instructables.com/id/Build-a-Pocket-Ionizing-Radiation-Detector-PIRD/">Build a Pocket Ionizing Radiation Detector (PIRD)</a> can be very handy to take it with you.</p>
+
+<p><img src="http://taipeihackerspace.github.com/blogimg/pocketion500o.jpg" width="500" height="375" title="&#34;Pocket Ionizing Radiation Detector&#34;" alt="&#34;Pocket Ionizing Radiation Detector&#34;"></p>
+
+<p>The signal from the counter can also be used for other purposes, like interesting ways to decorate your environment like <a href="http://www.instructables.com/id/Geiger-counter-triggered-LED-decorations/">this one</a> or <a href="http://www.instructables.com/id/Star-Jar-Geiger-counter-triggered-LED-decoration-/" title="Star Jar Geiger counter triggered LED decoration (2012 remix)">this one</a>.</p>
+
+<p><img src="http://taipeihackerspace.github.com/blogimg/geigerdecor500o.jpg" width="500" height="375" title="&#34;Geiger counter triggered LED decorations&#34;" alt="&#34;Geiger counter triggered LED decorations&#34;"></p>
+
+<p>Also, <a href="http://www.instructables.com/id/Nixie-Tube-Geiger-Counter/" title="Nixie Tube Geiger Counter">Nixie-tubes</a> just make everything look cooler.</p>
+
+<p><img src="http://taipeihackerspace.github.com/blogimg/nixiegeiger500o.jpg" width="500" height="375" title="&#34;Nixe tube Geiger counter&#34;" alt="&#34;Nixe tube Geiger counter&#34;"></p>
+
+<h2>Build one</h2>
+
+<p>I&#8217;m pretty sure that there are much more versions than a quick research like this could bring up. On the other hand, the basics are pretty much the same for all of them, so the next step should be indeed to make one. Let&#8217;s see if there&#8217;s anything worrying in the air (hope not, but better to know:)</p>
+
+<p>This would probably make a very good workshop as well - a bit of physics training, a bit of soldering, networking, data monitoring. Probably the biggest issue would be getting the parts, need to look into sourcing them, and not the eBay-type one-by-one, but somewhere where we can have a few.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Kicking off the new year]]></title>
