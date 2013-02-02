@@ -4,7 +4,7 @@
   <title><![CDATA[Taipei Hackerspace]]></title>
   <link href="http://taipeihackerspace.github.com/atom.xml" rel="self"/>
   <link href="http://taipeihackerspace.github.com/"/>
-  <updated>2013-02-02T07:41:32+08:00</updated>
+  <updated>2013-02-02T09:23:25+08:00</updated>
   <id>http://taipeihackerspace.github.com/</id>
   <author>
     <name><![CDATA[Gergely Imreh]]></name>
@@ -18,7 +18,16 @@
     <link href="http://taipeihackerspace.github.com/blog/2013/02/02/taiwan-maker-gettogether/"/>
     <updated>2013-02-02T07:33:00+08:00</updated>
     <id>http://taipeihackerspace.github.com/blog/2013/02/02/taiwan-maker-gettogether</id>
-    <content type="html"><![CDATA[<p>First Hackerspace event - (and accidentally Groundhog Day too)</p>
+    <content type="html"><![CDATA[<p><strong>Update</strong>:</p>
+
+<p>The live hangout starts soon (10am Taipei time (UTC+8) <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Maker+Gettogether&amp;iso=20130202T10&amp;p1=241&amp;ah=6">click to see it in your time zone</a>):</p>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/0iOLxUuQd10" frameborder="0" allowfullscreen></iframe>
+
+
+<p>or watch directly on <a href="http://www.youtube.com/user/tomhaynesnet?v=0iOLxUuQd10">Youtube</a>.</p>
+
+<p>First Hackerspace event - (and accidentally Groundhog Day too)</p>
 
 <p>The purpose of this event is to get people interested in joining the first ever hackerspace in Taipei. We will be gauging interest in the hackerspace to help us select a large enough space that we can afford to open. This will also be a chance for the organizers to meet people that can help us find the perfect space. Our goal is to have the space ready for a Hack the Hackerspace event by the time Maker Faire Taiwan arrives in May.</p>
 
