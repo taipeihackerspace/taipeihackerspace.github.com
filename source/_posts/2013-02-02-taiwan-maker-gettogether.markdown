@@ -6,8 +6,18 @@ comments: true
 categories: 
 ---
 
-**Update**: 
+**Update 2**
 
+The photos from the event can be seen [clicking here](https://plus.google.com/photos/100085911445404984901/albums/5840341447077969233).
+
+{% img /blogimg/makergettogether.jpg 500 333 "Hard at work with microcontrollers and other goodies" %}
+
+or you can see the whole timelapse:
+
+<iframe width="480" height="360" src="http://www.youtube.com/embed/veyJKOLZW4c" frameborder="0" allowfullscreen></iframe>
+
+
+**Update**:
 
 The live hangout starts soon (10am Taipei time (UTC+8) [click to see it in your time zone](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Maker+Gettogether&iso=20130202T10&p1=241&ah=6)):
 
