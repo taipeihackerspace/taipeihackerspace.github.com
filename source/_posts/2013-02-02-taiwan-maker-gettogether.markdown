@@ -14,7 +14,16 @@ The live hangout starts soon (10am Taipei time (UTC+8) [click to see it in your 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/0iOLxUuQd10" frameborder="0" allowfullscreen></iframe>
 or watch directly on [Youtube](http://www.youtube.com/user/tomhaynesnet?v=0iOLxUuQd10).
 
-First Hackerspace event - (and accidentally Groundhog Day too)
+You can also join the hangout for different learning stations on Google+ hangout. Click on the names to join the hangouts!
+
+* [Table 1](https://plus.google.com/hangouts/_/8a5159c6d89147647540269294f3fa2f7f57d9b6)
+* [Table 2](https://plus.google.com/hangouts/_/a498b26e350332de21b82d0feaa75d4cb8cbbeb5)
+* [Table 3](https://plus.google.com/hangouts/_/339eeef9e61d1242c4b48d68e1de804554a977b6)
+
+(These will be live for the whole day, starting to do things around 12 noon Taiwan time)
+
+
+**First Hackerspace event - (and accidentally Groundhog Day too)**
 
 The purpose of this event is to get people interested in joining the first ever hackerspace in Taipei. We will be gauging interest in the hackerspace to help us select a large enough space that we can afford to open. This will also be a chance for the organizers to meet people that can help us find the perfect space. Our goal is to have the space ready for a Hack the Hackerspace event by the time Maker Faire Taiwan arrives in May.
 
