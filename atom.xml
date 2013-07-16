@@ -4,7 +4,7 @@
   <title><![CDATA[Taipei Hackerspace]]></title>
   <link href="http://taipeihackerspace.github.com/atom.xml" rel="self"/>
   <link href="http://taipeihackerspace.github.com/"/>
-  <updated>2013-07-16T15:08:50+08:00</updated>
+  <updated>2013-07-16T16:26:52+08:00</updated>
   <id>http://taipeihackerspace.github.com/</id>
   <author>
     <name><![CDATA[Gergely Imreh]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fixing a headphone jack]]></title>
+    <link href="http://taipeihackerspace.github.com/blog/2013/07/16/fixing-a-headphone-jack/"/>
+    <updated>2013-07-16T15:54:00+08:00</updated>
+    <id>http://taipeihackerspace.github.com/blog/2013/07/16/fixing-a-headphone-jack</id>
+    <content type="html"><![CDATA[<p>Fixing a headphone that has a broken jack is easier than many people think. Recently I had a friend bringing his favorite, but old, headphone to the Hackerspace to get it working again. It is back in action, and now here&#8217;s a quick quide of the steps taken, so other people can do something similar as well.</p>
+
+<p>So, if your headphone connector does not have sound in either ear, or the cable has to be moved around near the jack to have sound, the inner cabling is likely broken there. It is probably the most sensitive part of headphones, not really a surprise.</p>
+
+<p><em>Snip it</em>: snip the old connector off near the jack. Go to Guanghua computer market or another computer store, to get a new jack that could be assembled. Make sure that the connector part (the metal area, the part plugged in) is the same length (from tip to metal base), and has the same number of metal bands.</p>
+
+<p><img src="http://taipeihackerspace.github.com/blogimg/headphone1.jpg" width="500" height="375" title="&#34;Snip the old jack off, took the leap&#34;" alt="&#34;Snip the old jack off, took the leap&#34;"></p>
+
+<p><em>Prepare the new jack</em>: the connector should have some kind of outside cover, screw it off and thread the cable in it. If your cable has two lines attached to each other, separate them for 2-3cm length. Strip off the outside plastic cover with a wire stripper: I used AWG18 setting, or just &#8220;18&#8221;, be careful not to break off the little wire bundles inside.</p>
+
+<p>In one of the lines you should see a green colored bundle and a copper colored one, that belongs to the left ear. The other wire should have a red bundle and a copper colored one, which belongs to the right ear. The color is coming from the enamel coating on the copper wire (even the copper colored one as well!), that is to insulate the wires from each other. This coating makes it a bit trickier to solder later, but not much harder.</p>
+
+<p>The jack should have a couple of connectors exposed by the cover you&#8217;ve screwed off: the biggest one is the ground, that connects to the base of the plugged in area. The tip of the jack is the left ear, the second from the tip is the right. On the back, usually the middle electrode connects to the tip, the one further outside of the center is the second, and so on. If you are not sure which connects where, use a multimeter to make check the connections by touching the metal bands on the plug in area and the back.</p>
+
+<p><img src="http://taipeihackerspace.github.com/blogimg/headphone2.jpg" width="500" height="375" title="&#34;Preparing the new jack&#34;" alt="&#34;Preparing the new jack&#34;"></p>
+
+<p><em>Ready to solder</em>: can use a &#8220;third hand&#8221; to hold the jack. Roll the two copper colored lines (the ground lines) together and thread them in the ground connection (the large electrode), where there should be a hole. Using the soldering iron at normal temperature, add a bit of solder and keep it there for a bit.</p>
+
+<p>The trick is that the hot solder will burn off the enamel coating, so that the electrode can have electronic contact with the wire. You have to heat it enought that the coating is burned off, but not too long that the plastic parts of the jack melt. Maybe a few shorter touches with the soldering iron and let it cool in between? Experiment a bit carefully.</p>
+
+<p><img src="http://taipeihackerspace.github.com/blogimg/headphone3.jpg" width="500" height="375" title="&#34;Ready to solder: view from below, the ground wires thread in&#34;" alt="&#34;Ready to solder: view from below, the ground wires thread in&#34;"></p>
+
+<p><em>Solder the signal lines</em>: solder the green (left ear) wire to the electrode that connects to the center pin, and the red (right ear) wire to the one connecting to the one below the tip. Thread the line through the hole of the electrode, and do the enamel-burning trick. Make sure that the connector has enough time to cool down so you don&#8217;t end up melting it. Make sure you don&#8217;t leave connections between the electrodes.</p>
+
+<p><img src="http://taipeihackerspace.github.com/blogimg/headphone4.jpg" width="500" height="375" title="&#34;Solder the sides&#34;" alt="&#34;Solder the sides&#34;"></p>
+
+<p><em>Test the connections</em>: if everything is done well, then the tip band of the jack and the ground connection should have a low resistivity reading, that you can check with a multimeter. The same goes with the band below the tip. Check them out, so you can verify that your soldering has worked.</p>
+
+<p><img src="http://taipeihackerspace.github.com/blogimg/headphone5.jpg" width="500" height="375" title="&#34;Testing the connections&#34;" alt="&#34;Testing the connections&#34;"></p>
+
+<p><em>Screw in the cover</em>: now you have the jack cover that you thread in the wire in the beginning, now it&#8217;s time to scew it on - and hopfeully everything worked, if you missed that, you will have to start everything from the beginning. Later plug in / pull out the jack by that vcover to keep it safer and not break it again too easily.</p>
+
+<p><img src="http://taipeihackerspace.github.com/blogimg/headphone6.jpg" width="500" height="375" title="&#34;Screw in the cover&#34;" alt="&#34;Screw in the cover&#34;"></p>
+
+<p><em>Testing, testing</em>: check it out with some music, make sure that both ears work - if not the soldering didn&#8217;t work, go back to that step. Make sure that the left and right side is correct (you can use for example an <a href="http://youtu.be/4bJ0dvAl98k" title="Stereo Audio Test (Left, Right)">audio testing video on Youtube</a>) - if not, switch the two sides by unsoldering them and doing it again.</p>
+
+<p><img src="http://taipeihackerspace.github.com/blogimg/headphone7.jpg" width="500" height="375" title="&#34;Testing the earphones&#34;" alt="&#34;Testing the earphones&#34;"></p>
+
+<p>And now, you should have a functional headphone again, that sounds good as new. Enjoy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Instructables build night]]></title>
